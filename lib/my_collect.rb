@@ -1,3 +1,4 @@
+
 def my_collect(array)
   i = 0
   while i < array.length
@@ -7,5 +8,3 @@ def my_collect(array)
 end
 
 end
-
-
